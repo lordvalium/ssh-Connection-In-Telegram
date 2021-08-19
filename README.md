@@ -1,5 +1,7 @@
 # ssh connection in Telegram
 
+pip3 install PyTelegramBotAPI 
+
 How it work (briefly):
 - Put folder telegram/ on the server in the local network. (Need internet access)
 - Сhange settings in telegram/config.py (look at the comments)
